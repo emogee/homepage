@@ -1,4 +1,4 @@
-# William Jarrold
+# William Jarrold, PhD
 # AI R&D, Ontology, Psychology, Neurology
 
 I work at the intersection of minds, brains and machines. My AI work has involved common sense reasoning, knowledge graphs, chat bot/dialog systems/assistants and neuropsychiatric assessment.
