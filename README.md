@@ -1,4 +1,4 @@
-# William Jarrold, PhD (Page Under Construction)
+# William Jarrold, PhD
 # AI R&D, Ontology, Psychology, Neurology
 
 I work at the intersection of minds, brains and machines. My AI work has involved common sense reasoning, knowledge graphs, chat bot/dialog systems/assistants and neuropsychiatric assessment.
@@ -8,3 +8,5 @@ I do AI R&D.  My background combines ontology (or knowledge engineering), natura
 <a href="https://www.researchgate.net/profile/William_Jarrold">William Jarrold on ResearchGate</a>
 <p>
 https://www.researchgate.net/profile/William_Jarrold
+<p>  
+https://www.linkedin.com/in/william-jarrold-a31983
